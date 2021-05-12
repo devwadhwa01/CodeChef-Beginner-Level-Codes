@@ -6,3 +6,4 @@ The following problems have been added to this repository: (You may search using
 | Problem Name  | Problem Code |
 | ------------- | ------------- |
 | ATM  | HS08TEST  |
+| Enormous Input Test | INTEST |
