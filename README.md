@@ -8,10 +8,10 @@ The following problems have been added to this repository: (You may search using
 | ATM  | HS08TEST  |
 | Enormous Input Test | INTEST |
 | Add Two Numbers | FLOW001 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Number Mirror | START01 |
+| Sum of Digits | FLOW006 |
+| Find Remainder | FLOW002 |
+| Small factorials | FCTRL2 |
+| First and Last Digit | FLOW004 |
+| Turbo Sort | TSORT |
+| Lucky Four | LUCKFOUR |
