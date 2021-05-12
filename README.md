@@ -3,6 +3,6 @@ This repository contains all the codes of practice problems provided by CodeChef
 
 The following problems have been added to this repository: (You may search using problem code)
 
-                                              | Problem Name  | Problem Code |
-                                              | ------------- | ------------- |
-                                              | ATM  | HS08TEST  |
+| Problem Name  | Problem Code |
+| ------------- | ------------- |
+| ATM  | HS08TEST  |
