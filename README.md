@@ -15,3 +15,13 @@ The following problems have been added to this repository: (You may search using
 | First and Last Digit | FLOW004 |
 | Turbo Sort | TSORT |
 | Lucky Four | LUCKFOUR |
+| Reverse The Number | FLOW007 |
+| Finding Square Roots | FSQRT |
+| The Lead Game | TLG |
+| Second Largest | FLOW017 |
+| Packaging Cupcakes | MUFFINS3 |
+| Small Factorial | FLOW018 |
+| Helping Chef | FLOW008 |
+| Chef and Operators | CHOPRT |
+| Chef and Remissness | REMISS |
+| Valid Triangles | FLOW013 |
