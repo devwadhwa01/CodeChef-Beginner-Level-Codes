@@ -5,7 +5,7 @@ The following problems have been added to this repository: (You may search using
 
 | Problem Name  | Problem Code |
 | ------------- | ------------- |
-| ATM  | HS08TEST  |
+| ATM | HS08TEST |
 | Enormous Input Test | INTEST |
 | Add Two Numbers | FLOW001 |
 | Number Mirror | START01 |
@@ -25,3 +25,13 @@ The following problems have been added to this repository: (You may search using
 | Chef and Operators | CHOPRT |
 | Chef and Remissness | REMISS |
 | Valid Triangles | FLOW013 |
+| Ciel and Receipt | CIELRCPT |
+| Decrement OR Increment | DECINC |
+| Mahasena | AMR15A |
+| Smallest Numbers of Notes | FLOW005 |
+| The Block Game | PALL01 |
+| Primality Test | PRB01 |
+| Sum OR Difference | DIFFSUM |
+| Id and Ship | FLOW010 |
+| Puppy and Sum | PPSUM |
+| GCD and LCM | FLOW016 |
