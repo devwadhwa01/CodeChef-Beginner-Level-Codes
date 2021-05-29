@@ -35,3 +35,13 @@ The following problems have been added to this repository: (You may search using
 | Id and Ship | FLOW010 |
 | Puppy and Sum | PPSUM |
 | GCD and LCM | FLOW016 |
+| Total Expenses | FLOW009 |
+| Fit Squares in Triangle | TRISQ |
+| Lapindromes | LAPIN |
+| Sums in a Triangle | SUMTRAIN |
+| Gross Salary | FLOW011 |
+| The Smallest Pair | SMPAIR |
+| Grade The Steel | FLOW014 |
+| Cutting Recipes | RECIPE |
+| Ambiguous Permutations | PERMUT2 |
+| Tanu and Head-bob | HEADBOB |
